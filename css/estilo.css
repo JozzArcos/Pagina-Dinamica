@@ -112,4 +112,11 @@ margin-bottom: 100px;
 	height: auto;
 	max-width: 100%;
 }
+#scrllUp{
+	bottom:20px;
+	right:20px;
+	padding:10px 20px;
+	bacground:#555;
+	color:#fff;
+}
 
